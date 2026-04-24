@@ -1,0 +1,5 @@
+
+#ifndef BISELLO_OMP_THREAD_EX_5_H
+#define BISELLO_OMP_THREAD_EX_5_H
+void Exercise5();
+#endif //BISELLO_OMP_THREAD_EX_5_H

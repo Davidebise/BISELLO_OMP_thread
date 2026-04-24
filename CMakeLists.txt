@@ -13,6 +13,22 @@ add_executable(BISELLO_OMP_thread main.cpp
         Ex.3.h
         Ex.4.cpp
         Ex.4.h
+        Ex.5.cpp
+        Ex.5.h
+        Ex.6.cpp
+        Ex.6.h
+        Exercise7.cpp
+        Exercise7.h
+        Ex.8.cpp
+        Ex.8.h
+        Ex.9.cpp
+        Ex.9.h
+        Ex.10.cpp
+        Ex.10.h
+        Ex.11.cpp
+        Ex.11.h
+        Ex.12.cpp
+        Ex.12.h
 )
 if(OpenMP_CXX_FOUND)
     target_link_libraries(BISELLO_OMP_thread PRIVATE OpenMP::OpenMP_CXX)
